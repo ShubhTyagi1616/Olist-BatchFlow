@@ -1,0 +1,26 @@
+# ignore the credentials file 
+.env
+.env.*
+
+# virtual environment
+venv/
+env/
+
+# Raw dataset (large files, don't commit)
+data/raw/
+
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
