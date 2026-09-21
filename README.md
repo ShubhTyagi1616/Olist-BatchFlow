@@ -183,7 +183,3 @@ São Paulo alone accounts for the largest share of revenue — consistent with i
 - BI dashboard layer (Metabase / Power BI) on top of the warehouse
 
 ---
-
-## 👤 Author
-
-Built as a hands-on data engineering project to practice batch ETL design, dimensional modeling, and pipeline orchestration end-to-end.
