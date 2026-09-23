@@ -431,7 +431,7 @@ def get_review_score_by_order_status():
         SELECT
             order_status,
             COUNT(DISTINCT order_id) AS total_orders,
-            ROUND(AVG(review_score), 2) AS average_review_score
+            ROUND(AVG(review_score)::NUMERIC, 2) AS average_review_score
         FROM warehouse.fact_orders
         WHERE review_score IS NOT NULL
         GROUP BY order_status
