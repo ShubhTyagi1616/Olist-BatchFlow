@@ -805,7 +805,7 @@ docs/
 
 Example:
 
-```markdown
+
 ## 📊 Dashboard Preview
 
 ### Overview
@@ -835,7 +835,6 @@ Example:
 
 ![delivery_performance](docs/delivery_performance.png)
 ![on_time_delivery_performance](docs/on-time_delivery_performance.png)
-```
 
 ---
 
