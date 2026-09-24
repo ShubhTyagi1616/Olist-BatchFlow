@@ -19,7 +19,7 @@
 * 💼 [LinkedIn](https://www.linkedin.com/in/shubham-tyagi-947b49400/)
 * 💻 [GitHub](https://github.com/ShubhTyagi1616)
 * 📂 [Project Repository](https://github.com/ShubhTyagi1616/Olist-BatchFlow)
-* 🚀 **Live Dashboard:** `https://olist-batchflow-nthhq7wksqr2eugqjnrqtr.streamlit.app`
+* 🚀 [Live Dashboard:](https://olist-batchflow-nthhq7wksqr2eugqjnrqtr.streamlit.app)
 
 ---
 
